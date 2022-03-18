@@ -1,13 +1,16 @@
 1:  Users complain that, when they start one game, it starts the other game, as well. 
 Fix the code such that each game can be played independent of one another.
+[done]
 
 2: Users complain that they don't like the black blocks in Tetris. Fix the implementation such
 that the blocks are purple, yellow, green, and RED instead of black.
+[done]
 
 3: Snake currently is buggy in the way it renders the game - fix the code
 such that the game renders normally 
  - Note that this includes rendering food only when the snake eats a piece of food.
 - Hint: there's some code in the Tetris game that may help with this.
+[done]
 
 4: Users complain that the snake game is too fast - fix it such that the snake moves slower.
 - Hint: there's some code in the Tetris game that may help with this.
